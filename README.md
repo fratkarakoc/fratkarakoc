@@ -14,13 +14,13 @@ I'm currently looking for data analyst / BI / reporting roles.
 ## Featured Projects
 
 ### [E-commerce Analytics — Olist](https://github.com/fratkarakoc/olist-e-marketing-data-analysis)
-An end-to-end analytics project on the Olist Brazilian e-commerce dataset. Python + PostgreSQL pipeline covering RFM customer segmentation, Spearman correlation, and hypothesis testing , with a thorough data-quality review.
+The project aims to segment customer behavior in order to identify the platform's highest-value customer groups and the factors driving sales. To this end, order, customer, and payment data are queried with SQL, cleaned with Python, and analyzed using statistical methods.
 
 ### [HR Attrition Analysis — IBM HR Analytics](https://github.com/fratkarakoc/ibm_hr_attrition_analysis)
-A SQL-heavy project built on a self-designed, normalized schema, with a Power BI dashboard exploring which employee segments carry the highest attrition risk and what drives it.
+The project aims to identify the factors driving employee attrition — such as pay level and tenure — and to surface high-risk employee segments. To this end, data loaded into a normalized database schema I designed is analyzed with SQL queries, with findings visualized in a Power BI dashboard.
 
 ### [Retail Demand Forecasting — Walmart](https://github.com/fratkarakoc/walmart_retail_forecasting)
-An Excel-only project forecasting store-level demand and calculating safety stock / reorder points for a set of representative stores, using Power Query, Power Pivot/DAX, and FORECAST.ETS. Includes a fully designed bilingual (English/Turkish) report.
+The project aims to forecast demand for selected stores and to develop inventory recommendations through safety stock and reorder point calculations. To this end, data cleaned in Excel using Power Query is loaded into the Data Model (Power Pivot) and analyzed using time-series forecasting methods and DAX measures.
 
 ## Currently Learning
 
