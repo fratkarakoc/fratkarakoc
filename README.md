@@ -9,12 +9,12 @@ I'm currently looking for data analyst / BI / reporting roles.
 - **Languages & Libraries:** Python (pandas, NumPy, SciPy, seaborn, matplotlib)
 - **Databases:** SQL, PostgreSQL
 - **Tools:** Excel (Power Query, Power Pivot/DAX), Power BI, Git/GitHub
-- **Statistics:** Hypothesis testing (t-tests, Mann-Whitney U, ANOVA, chi-square), correlation analysis, regression
+- **Statistics:** Hypothesis testing , correlation analysis, regression
 
 ## Featured Projects
 
 ### [E-commerce Analytics — Olist](https://github.com/fratkarakoc/olist-e-marketing-data-analysis)
-An end-to-end analytics project on the Olist Brazilian e-commerce dataset. Python + PostgreSQL pipeline covering RFM customer segmentation, Spearman correlation, and hypothesis testing (Mann-Whitney U, ANOVA), with a thorough data-quality review.
+An end-to-end analytics project on the Olist Brazilian e-commerce dataset. Python + PostgreSQL pipeline covering RFM customer segmentation, Spearman correlation, and hypothesis testing , with a thorough data-quality review.
 
 ### [HR Attrition Analysis — IBM HR Analytics](https://github.com/fratkarakoc/ibm_hr_attrition_analysis)
 A SQL-heavy project built on a self-designed, normalized schema, with a Power BI dashboard exploring which employee segments carry the highest attrition risk and what drives it.
